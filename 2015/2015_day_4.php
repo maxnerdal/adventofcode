@@ -1,7 +1,7 @@
 <?php
 $inputSecretKey = trim(file_get_contents('/Users/maxnerdal/Documents/adventofcode/2015/input/2015_day_4_input.txt'));
 
-// Part one
+// Part one & two
 function getLowestPossibleNumber($input, $zerosInt) 
 {
     //$input = "bgvyzdsv";
