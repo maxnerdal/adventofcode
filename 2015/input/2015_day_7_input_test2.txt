@@ -1,0 +1,7 @@
+NOT dq -> dr
+kg OR kf -> kh
+ep OR eo -> eq
+44430 -> b
+NOT iz -> ja
+iu AND jf -> jh
+lx -> a
